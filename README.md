@@ -1,6 +1,8 @@
 # ubuntu-cuda
 CUDA libraries and header files for Ubuntu
 
+This project aims to provide a convenient way to download all CUDA files needed for cross compiling CUDA code on an x86_64 Ubuntu host for aarch64 target.
+
 JetPack 4.3 contents:
 - CUDA version 10.0
 
